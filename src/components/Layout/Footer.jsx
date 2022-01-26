@@ -196,7 +196,7 @@ const Footer = () => {
                         <div 
                             className={classes.copyright}
                         >
-                             Created By  Ahmad Syaiful Akbar, Team KKN Tematik Tirtomulyo UNDIP, & luqmansen &copy; 2021
+                             Created By Team KKN Tematik Tirtomulyo UNDIP & luqmansen &copy; 2021
                         </div>
                         <Hidden
                             mdDown
