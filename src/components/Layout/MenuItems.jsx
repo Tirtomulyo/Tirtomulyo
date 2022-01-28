@@ -5,7 +5,7 @@ const MenuItems = [
     },
     {
         name: 'Eduwisata',
-        url: '/eduwisata'
+        url: '/content'
     },
     {
         name: 'Galleri',

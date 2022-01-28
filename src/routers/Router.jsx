@@ -34,7 +34,7 @@ export default function Router() {
                     <Routes>
                         <Route path="/" element={<Home />}/>
                         <Route path="/gallery" element={<Gallery />}/>
-                        <Route path="/eduwisata" element={<Eduwisata />}/>
+                        <Route path="/content" element={<Eduwisata />}/>
                         <Route path="/eduwisata/:slug" element={<EduwisataDetail />}/>
                         <Route path="/about" element={<About />}/>
                         <Route path="/travel-guide" element={<TravelGuide />}/>

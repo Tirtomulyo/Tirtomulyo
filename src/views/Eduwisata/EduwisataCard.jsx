@@ -41,7 +41,7 @@ function EduwisataCard(props) {
                 <Button 
                     size="small" 
                     color="primary" 
-                    onClick={() => navigate(`/eduwisata/${props.data.slug}`)}
+                    onClick={() => navigate(`/content/${props.data.slug}`)}
                 >
                     Baca Selengkapnya
                 </Button>
