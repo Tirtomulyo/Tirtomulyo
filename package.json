@@ -1,7 +1,7 @@
 {
   "name": "tirtomulyo",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://www.tirtomulyo.id/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
